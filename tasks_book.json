@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "test1",
+        "description": "тестовая задача",
+        "category": "test1",
+        "due_date": "2025-11-11",
+        "priority": "Высокий",
+        "status": "Выполнена"
+    },
+    {
+        "id": 2,
+        "title": "test3",
+        "description": "тестовая задача",
+        "category": "test3",
+        "due_date": "2025-12-12",
+        "priority": "Высокий",
+        "status": "Не выполнена"
+    },
+    {
+        "id": 6,
+        "title": "test44",
+        "description": "",
+        "category": "",
+        "due_date": "2025-11-11",
+        "priority": "средний",
+        "status": "Не выполнена"
+    }
+]
